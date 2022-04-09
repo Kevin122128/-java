@@ -1,3 +1,3 @@
 # -java二手车管理交易系统
 包含二手车及门店信息增删改查、二手车交易、过户等一系列功能。详情可咨询qq 1124874711
-参考   https://gitee.com/jibaokang/ershouche_exchange
+参考   https://blog.csdn.net/qq_42662299/article/details/109124733?spm=1001.2014.3001.5502
